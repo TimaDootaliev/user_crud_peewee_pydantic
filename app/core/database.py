@@ -10,3 +10,6 @@ b = 20
 
 c = 30
 d = 40
+
+def good_bye():
+    return 'good_bye
